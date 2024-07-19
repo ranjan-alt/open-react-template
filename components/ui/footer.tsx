@@ -115,7 +115,7 @@ export default function Footer() {
                 <ul>
                   <li className="mb-1">
                     <Link
-                      href="/about"
+                      href="/aboutUs"
                       className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out"
                     >
                       About Us

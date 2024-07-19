@@ -1,8 +1,9 @@
 // pages/about.tsx
-import Link from "next/link";
-import Header from "../../components/ui/header";
-import Footer from "../../components/ui/footer"; // Assuming you have a Footer component
 
+import Header from "../../components/ui/header";
+import Footer from "../../components/ui/footer";
+
+import Link from "next/link";
 export default function About() {
   return (
     <div className="min-h-screen flex flex-col">
